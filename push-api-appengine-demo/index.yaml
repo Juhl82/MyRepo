@@ -1,6 +1,0 @@
-indexes:
-- kind: Message
-  ancestor: yes
-  properties:
-  - name: creation_date
-    direction: desc
